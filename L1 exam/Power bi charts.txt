@@ -1,0 +1,51 @@
+Charts in power bi:
+
+* Funnel chart:
+
+Why:	1) If there is a sequantial data between stages
+	2) The number of "items" in the first stage is expected to be greater than the number in the final stage
+
+* Doughnut chart :
+
+Why :	1)To compare evry section with whole rather than comparong with each other.
+
+* Line and stacked column chart/clustered column chart :
+
+shared axis : that means X axis
+column values : for column chart
+line chart : for line chart
+
+Note: Also called as combo chart
+Spciality : We can use more than one Y axis and one X axis
+
+* Map chart:
+
+Why : Used to associate both categorical and quantitative information with spatial locations.
+
+* KPI (Key Performance Indicator) :Display progress
+
+* Scatter chart :
+
+It has X and Y axis in its property pane
+
+------------------------------------------------------------------------------------------------------------------------------
+
+1) Stacked bar chart/column chart,Clustered bar chart/colunm chart,100% stacked bar chart/column chart,Line chart,
+   Area chart,skacked area chart,Ribbon chart,
+	
+	a)Axis b)legend c)values d)Tooltips
+
+2)Line and stacked/clustered column chart
+
+	a)shared axis b)column series c)column values d)line values
+
+3)Waterfall chart
+
+	a)Category b)Y axis c)breakdown d)Tooltips
+
+4)Gauge 
+
+	a)Indicator b)Trend axis c)Target goals
+
+5)Matrix : a)Row b)Column c)Values
+6)	

@@ -1,0 +1,49 @@
+SSIS :
+
+* Various sources and destinations
+
+* Various connections
+
+* Join transformation
+
+* Containers :- for,for each,sequance
+
+* checkpoints and their properties
+
+* Flat file destination types
+
+* SCD types
+
+* How do we remove duplicates(sort and aggregate)
+
+* Basic requirement for pivot transormation
+
+* script task and script component difference
+
+* What are the different log providers
+
+* Simple mapping using import export wizard
+
+* Various transormations
+
+* Features of new versions of SSIS (See the first PPT of SSIS)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+POWER BI:
+
+* Merging queries and append queries 
+
+* Split component
+
+* Fill up ,fill down,fill
+
+* All visualisations
+
+* Types of filters
+
+* Power BI services
+
+* Manage realtions component in query editor
+----------------------------------------------------------------------------------------------------------------------------------
+

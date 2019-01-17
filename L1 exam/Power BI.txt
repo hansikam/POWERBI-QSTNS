@@ -1,0 +1,103 @@
+Power BI MCQ's:
+
+1) What are the three view in power bi?
+ANS: 1)Report view 2)Data view 3)Relationship view
+
+2)Which language is used for power query editor?
+ANS: M Language
+
+3)Data sources available in Power bi?
+ANS: 1)File 2)Online services 3)Azure 4)Power bi 5)Database 6)Other
+
+4)What are the building blocks of power bi?
+ANS: 1)Visualisations 2)Reports 3)Datasets 4)Dashboards 5)Tiles
+
+5)What are the categories of cloud services?
+ANS:    1)IAAS : Infrastructure As A services
+	2)PAAS:Platform As A Services
+	3)SAAS:Software As A Services
+
+6)What is used to generate interesting interactive visualizations based on your data?
+ANS:  Quick insights
+
+7)Power BI Pro license is required to share and receive your content.
+ANS: Yes
+
+8)Which data connections file category provides?
+ANS: 1)Text/CSV 2)XML 3)Excel 4)JSON 5)Folder 6)Sharepoint folder
+
+9)To find relationship between queries what is option?
+ANS : Homw->Manage relationship->Autodetect
+
+10)Default cardinality in creating relationship between queries?
+ANS : Many to one
+
+11)When to use Many to Many cardinality?
+ANS: When neither columns contains unique values
+
+12)Three types of cardinality used in power bi?
+ANS : 1) 1-1 2)1-* 3)*-1
+
+13)Which cross filter direction works well in star schema?
+ANS :Both
+
+14)Power BI Desktop only allows a single active relationship between two tables at a given time
+
+15) What are the tabs available in query editor ribbon?
+ANS : Home,Transform,Add column,View
+
+16)Parsing in query editor ?
+ANS : XML,JSON
+
+17)Query dependancies used to view dependancies tree.
+
+18)All steps associated with query are dipslayed in Query Setting pane.
+
+19)What is fully qualified column?
+ANS :Column name preceded by table name. E.g sales.ProductSales
+
+20)What is used if you want to take particular values from columns?
+ANS :Use filters
+
+21)What are the important DAX concepts in power bi?
+ANS :Syntax,Functions,Context
+
+22)What always surrounds a column name in a DAX formula?
+ANS : Brackets
+
+23)What are the types of context?
+ANS:Row contxt and Filter context
+
+24)One DAX formula contains maximum how many functions?
+ANS :64
+
+25)What category of function is used to concate two strings?
+ANS: Text functions
+
+26) Where to use funnel chart?
+ANS: If there is sequantial flow between stages then use funnel chart
+
+27) Power bi components ?
+ANS : 1) Desktop 2)Services 3)Mobile App
+
+28)What is power bi mobile APP?
+ANS : To view our reports anywhere any time
+
+29) Mobile Apps are available for Android,windows and iOS users
+
+30)To egt more insights what we can do?
+ANS : We can use : Filters,Group,slicers,Matrix
+
+31)Append query does not remove duplicates it just appends the data.
+
+32)Power bi allows you to create relationship btwn tables using Relationship view.
+
+33)Power bi does not support for many-many cardinality
+
+34)Difference between measures and calculated columns?
+ANS :
+Measures:1)Used at run time
+	2)Can not be used to create relationship between tables
+	3)not added as a new column in table
+(Opposite to measures is calculated columns)			
+
